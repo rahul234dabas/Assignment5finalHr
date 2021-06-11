@@ -1,0 +1,7 @@
+com\nagarro\dao\ValidateUser.class
+com\nagarro\model\Hrmodel.class
+com\nagarro\model\Employee.class
+com\nagarro\config\MvcConfig.class
+com\nagarro\config\MyFrontController.class
+com\nagarro\controllers\LoginController.class
+com\nagarro\model\EmployeeList.class
